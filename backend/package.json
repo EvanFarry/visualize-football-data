@@ -1,0 +1,20 @@
+{
+  "name": "football-data-org",
+  "version": "1.0.0",
+  "description": "app to interface with football-data api",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "evan farry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "bluebird": "^3.5.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "supertest": "^3.1.0"
+  }
+}

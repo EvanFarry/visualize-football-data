@@ -1,0 +1,9 @@
+A visualization tool for the football-data.org soccer API.
+
+How to use the tool:
+1. start backend Express app '$>node backend/index.js'
+2. start frontend Vue app '$>cd frontend', '$>npm run serve'
+3. visit Vue app at localhost:8080
+
+You will need your own football-data API key.
+You can hard-code your key into the Vue app at 'frontend/src/components/form.vue'
